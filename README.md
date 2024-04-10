@@ -18,7 +18,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... gamer...  programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **ipadandrescamilo1@gmail.com**
 <!--Intro end-->
   </p>
 <br>
