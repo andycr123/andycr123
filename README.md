@@ -16,7 +16,7 @@
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir que tengo 20😊)
 
-📝 roles en el ámbito: desarrollador... líder... gamer...  programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... programador-freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **ipadandrescamilo1@gmail.com**
 <!--Intro end-->
