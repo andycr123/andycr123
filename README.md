@@ -5,10 +5,7 @@
 <a href="https://www.tiktok.com/@bandit_expres" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
 <a href="https://www.linkedin.com/in/andrés-candama-7b641a242/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://www.facebook.com/bandit.ofdepresion/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "Me emociona expresar mi interés en el puesto de Desarrollador Front-End Junior en [nombre de la empresa]. Recientemente, completé [nombre del curso o proyecto relevante], adquiriendo habilidades en HTML, CSS, JavaScript y frameworks como Bootstrap.
-Mi experiencia previa en [menciona experiencia relevante] me ha proporcionado una base sólida en el desarrollo web. Soy proactivo, dispuesto a aprender y colaborar en equipo.
-Adjunto mi currículum para más detalles. Estoy disponible para una entrevista en su conveniencia.
-Saludos cordiales, [Tu nombre] [Tu número de teléfono] [Tu dirección de correo electrónico]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "ipadandrescamilo1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
